@@ -5616,7 +5616,7 @@ body {
       border-color: #f2c500; } }
 
 main {
-  background: url("/img/clouds.jpg") no-repeat center center fixed;
+  background: url("img/clouds.jpg") no-repeat center center fixed;
   background-size: cover; }
 
 .title {
